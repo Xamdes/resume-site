@@ -1,19 +1,20 @@
 body {
   background-color: #D7DBDD;
+  text-align: center;
 }
 
 .center_header {
-  text-align: center;
   font-size: 1.8em;
 }
 
 .about_center_header {
-  text-align: center;
   font-size: 1em;
 }
 
 .seperator_horizontal {
   border-bottom-style: solid;
+  border-color: #45B39D;
+  margin: .5em;
 }
 
 .div_green {
@@ -29,17 +30,30 @@ body {
 }
 
 .header_section {
-  text-align: left;
+  font-size: 1em;
+  margin: .5em;
+  height: 18px;
   border-bottom-style: solid;
   border-color: #45B39D;
-  font-size: 1em
 }
 
 .resume_contact {
-  font-size: 1.1em;
-  text-align: center;
+  font-size: 1.3em;
 }
 
 .resume_paragraph {
-  font-size: 1.2em;
+  margin: .5em;
+  font-size: 0.9em;
+}
+
+.resume_list {
+  margin: .5em;
+  font-size: 0.9em;
+}
+
+.section_center {
+  text-align: center;
+}
+.resume_horizontal_list ul li {
+  display: inline;
 }
