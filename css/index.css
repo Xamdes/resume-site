@@ -1,0 +1,45 @@
+body {
+  background-color: #D7DBDD;
+}
+
+.center_header {
+  text-align: center;
+  font-size: 1.8em;
+}
+
+.about_center_header {
+  text-align: center;
+  font-size: 1em;
+}
+
+.seperator_horizontal {
+  border-bottom-style: solid;
+}
+
+.div_green {
+  color: green;
+}
+
+.div_red {
+  color: red;
+}
+
+.div_blue {
+  color: blue;
+}
+
+.header_section {
+  text-align: left;
+  border-bottom-style: solid;
+  border-color: #45B39D;
+  font-size: 1em
+}
+
+.resume_contact {
+  font-size: 1.1em;
+  text-align: center;
+}
+
+.resume_paragraph {
+  font-size: 1.2em;
+}
