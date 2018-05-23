@@ -6,7 +6,7 @@
 
 ## About
 
-Created a Resume Site in order to practice styling using divs and spans.
+Created a Resume Site about the great Alphonso de la Nube in order to practice styling using divs and spans.
 
 ## Technologye Used
 

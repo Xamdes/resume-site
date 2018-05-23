@@ -30,9 +30,9 @@ body {
 }
 
 .header_section {
-  font-size: 1em;
+  font-size: 1.1em;
   margin: .5em;
-  height: 18px;
+  height: 20px;
   border-bottom-style: solid;
   border-color: #45B39D;
 }
@@ -43,7 +43,11 @@ body {
 
 .resume_paragraph {
   margin: .5em;
-  font-size: 0.9em;
+  font-size: 1.1em;
+}
+
+.span_red {
+  color: red;
 }
 
 .resume_list {
