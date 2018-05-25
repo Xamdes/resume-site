@@ -12,7 +12,7 @@ Created a Resume Site about the great Alphonso de la Nube in order to practice s
 
 HTML and CSS and styling using Divs and Spans
 
-##installation
+## Installation
 Clone from https://github.com/xamdes/resume-site.git
 or https://github.com/bscott9592/resume_site.git
 
